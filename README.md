@@ -1,6 +1,6 @@
-#Basic Automation Project
+#Working with Actions and Automation Project
 
-Basic Java  Automation Project
+Actions and Automation Project
 
 *QA
 *Java
